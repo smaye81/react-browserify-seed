@@ -1,0 +1,19 @@
+{
+  "name": "react-es6-seed",
+  "version": "0.0.1",
+  "authors": [
+    "Steve Ayers <smaye81@gmail.com>"
+  ],
+  "description": "Seed project using React with Flux architecture and ES6",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1"
+  }
+}
