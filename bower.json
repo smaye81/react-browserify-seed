@@ -1,10 +1,10 @@
 {
-  "name": "react-es6-seed",
+  "name": "react-browserify-seed",
   "version": "0.0.1",
   "authors": [
     "Steve Ayers <smaye81@gmail.com>"
   ],
-  "description": "Seed project using React with Flux architecture and ES6",
+  "description": "Seed project using React with Flux architecture and Browserify",
   "license": "MIT",
   "ignore": [
     "**/.*",
