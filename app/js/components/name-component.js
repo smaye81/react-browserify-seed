@@ -23,7 +23,7 @@ var Name = React.createClass({
                 <label>Enter Name:</label>
                 <input type="text" valueLink={this.linkState('name')} />
                 <button className="btn btn-primary" onClick={this.showName}>Say Hello</button>
-                {this.state.showName ? <p>Hello, {this.state.name}.  Welcome to React.  Its currently using Browserify but soon it will be using ES6</p> : ''}
+                {this.state.showName ? <p>Hello, {this.state.name}.  Welcome to React and Browserify using ES6</p> : ''}
 
 
             </div>
